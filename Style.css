@@ -1,0 +1,18 @@
+body {
+    background: #000 url("Soul Eater.jpg");
+}
+    margin-right: 0px:;
+}
+section {
+	color: #fff;
+
+}
+
+article {
+	width: 50%;
+	float: left;
+}
+
+article img {
+	max-width: 60%;
+}
