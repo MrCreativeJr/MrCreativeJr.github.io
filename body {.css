@@ -11,10 +11,10 @@ section {
 h1 {
 	color: red
 }
-#red-heading{color: red;}
-#orange-heading{color: orange;}
-#green-heading{color: green;}
-#blue-heading{color:  blue;}
+#red-heading: red;
+#orange-heading: orange;
+#green-heading: green;
+#blue-heading: blue;
 
 article {
 	width: 50%;
