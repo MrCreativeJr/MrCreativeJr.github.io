@@ -1,7 +1,7 @@
 body {
-    background: #000 url("Soul Eater.jpg");
+    background: #000 url("SFxTK.jpg");
 }
-    margin-right: 0px:;
+    
 }
 section {
 	color: #fff;
@@ -11,17 +11,18 @@ section {
 h1 {
 	color: red
 }
-#red-heading: red;
-#orange-heading: orange;
-#green-heading: green;
-#blue-heading: blue;
+#red-heading{color: red;}
+#orange-heading{color: orange;}
+#green-heading{color: green;}
+#blue-heading{color:  blue;}
 
 article {
 	width: 50%;
-	float: left;
+	float: right;
 	color: #fff
 }
 
 article img {
 	max-width: 60%;
+	float: left;
 }

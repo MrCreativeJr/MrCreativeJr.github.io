@@ -1,0 +1,28 @@
+body {
+    background: #000 url("SFxTK.jpg");
+}
+    
+}
+section {
+	color: #fff;
+
+}
+
+h1 {
+	color: red
+}
+#red-heading{color: red;}
+#orange-heading{color: orange;}
+#green-heading{color: green;}
+#blue-heading{color:  blue;}
+
+article {
+	width: 50%;
+	float: right;
+	color: #fff
+}
+
+article img {
+	max-width: 60%;
+	float: top;
+}
