@@ -9,27 +9,22 @@
 <body>
 <div class="container">
 <header>
-	<h1</a>
-<a href="Welcome.html">
+		<h1</a>
+<a href="index.html">
   <img src="swordart.jpg" alt="images"style="width:1500px;height:200px;">
  </h1>
 <nav>
 
 			<ul>
+				<li><a href="index.html">Homepage</a></li>
 				<li><a href="Anime.html">Anime</a></li>
 				<li><a href="Genres.html">Genres</a></li>
 				<li><a href="FanArt.html">FanArt</a></li>
+				<li><a href="Romance.html">Romance</a></li>
+				<li><a href="Adventure.html">Adventure</a></li>
+				<li><a href="Action.html">Action</a></li>
+				<li><a href="Comedy.html">Comedy</a></li>
 			</ul>
 
-</nav>
-	</header>
-<img src="Super-Smash-Bros.jpg" alt="images" style="width:500px;height:400px;"/>
-<img src="reborn.jpg" alt="images" style="width:500px;height:400px;"/>
-<img src="champloo.jpg" alt="images"style="width:500px;height:400px;"/>
-<iframe width="500" height="400"
-src="http://www.youtube.com/embed/mlYX3pC3zrQ">
-
-</div>
-</body>
-</html>
-<footer>LaShon Patterson &copy CopyRights</footer>
+</nav>	
+</header>

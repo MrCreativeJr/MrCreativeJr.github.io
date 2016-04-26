@@ -1,61 +1,66 @@
 body {
-    background: #000 url("SFxTK.jpg");
+    background: url("maxresdefault.jpg")
 }
-
 #header {
 	text-align: center;
 }
 .left{
-	float: left;
+	float: center;
 }
 .right{
-	float: right;
+	float: center;
 }
 
-section {
-	color: #fff;
-
+.container {
+    width: 100%;
+    margin: 0 auto;
 }
 
-h1 {
-	text-align: center;
-	color: red
+.center{
+    margin: auto;
+    width:60%;
+    padding: 10px;
 }
-#red-heading{color: red;}
-#orange-heading{color: orange;}
-#green-heading{color: green;}
-#blue-heading{color:  blue;}
-
-p {
-    background-color: red;
-}
-
-p.ex {
-    border:1px solid blue;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
-}
-
-
-section {
-	text-align:center;
-	color: #fff
-	width:0x;
-	height:400px;
-	background: black;
-}
-
-article img {
-
-	max-width: 60%;
-	float: left;
+ section {
+    float:right;
+    width: 50%;
+    padding: 5px;
+    display: inline-block;
+ }
+nav ul{
+    list-style-type: none;
+    text-align: center;
 }
 
 nav ul li {
-	display: inline-block;
-	margin: 0 5px;
-	font-size : 20px;
-	color: #000
+    display: inline-block;
+    margin: 0 5px;
+    font-size : 20px;
+    color: #000
+}
+
+ aside {
+    width: 80%;
+    padding: 20px;
+    float: right;
+ }
+a:link {
+    color: blue;
+    background-color: white;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    background-color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: white;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: white;
+    text-decoration: underline;
 }

@@ -14,6 +14,7 @@ body {
 
 section {
 	color: #fff;
+    float: center;
 
 }
 
@@ -27,7 +28,9 @@ h1 {
 #blue-heading{color:  blue;}
 
 p {
-    background-color: red;
+    background-color: black;
+    text-align: center;
+    font-style:georgia;
 }
 
 p.ex {
@@ -41,8 +44,7 @@ p.ex {
 
 section {
 	text-align:center;
-	color: #fff
-	width:0x;
+	color: #fff;
 	height:400px;
 	background: black;
 }
@@ -58,4 +60,26 @@ nav ul li {
 	margin: 0 5px;
 	font-size : 20px;
 	color: #000
+}
+
+
+a:link {
+    color: blue;
+    background-color: white;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    background-color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: white;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: white;
+    text-decoration: underline;
 }
